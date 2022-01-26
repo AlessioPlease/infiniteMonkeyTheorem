@@ -1,4 +1,4 @@
-# infiniteMonkey
+# Infinite Monkey
 I made this Java program inspired by the [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
 
 The program will ask the user to type a word. After it received the input, the program will start 
